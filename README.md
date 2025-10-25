@@ -21,12 +21,14 @@ It combines AI, computer vision, and robotics to detect unsafe situations (like 
 
 ## Tech Stack
 
-| Category | Technologies |
-|-----------|--------------|
-| **Programming Languages** | C++, Python |
-| **AI / CV Libraries** | YOLO, OpenCV, TensorFlow |
-| **Embedded Systems** | ESP32 |
-| **Hardware Components** | Motors, Camera module, Microcontroller (ESP32), Power supply, Motor Drivers |
+
+| **Programming Languages** :| C++, Python |
+
+| **AI / CV Libraries**: | YOLO, OpenCV, TensorFlow |
+
+| **Embedded Systems** :| ESP32 |
+
+| **Hardware Components** :| Motors, Camera module, Microcontroller (ESP32), Power supply, Motor Drivers |
 
 
 ##  How It Works
