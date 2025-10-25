@@ -28,7 +28,7 @@ It combines AI, computer vision, and robotics to detect unsafe situations (like 
 
 | **Embedded Systems** :| ESP32 |
 
-| **Hardware Components** :| Motors, Camera module, Microcontroller (ESP32), Power supply, Motor Drivers |
+| **Hardware Components** :| Motors, Camera module, Microcontroller (ESP32), Power supply, Motor Drivers, MeCanum Wheels |
 
 
 ##  How It Works
